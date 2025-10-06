@@ -1,0 +1,7 @@
+{
+  "name": "Settler",
+  "aiCanProduce": false,
+  "aiCanPurchase": false,
+  "isAvailableForProduction": false,
+  "isAvailableForPurchase": false,
+}
