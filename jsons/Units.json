@@ -522,4 +522,4 @@
                 "strength": 16,
                 "cost": 90,
                 "requiredTech": "Civil Service",
-                // Este era o ponto de int
+                {"// Este era o ponto de int"}
