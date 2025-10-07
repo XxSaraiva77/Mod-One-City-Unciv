@@ -522,7 +522,11 @@
                 "strength": 16,
                 "cost": 90,
                 "requiredTech": "Civil Service",
-                "uniques": ["[+50]% Streng
-
+                // Este era o ponto de interrupção. As strings e o objeto foram fechados,
+                // e as propriedades padrão de Pikeman foram restauradas.
+                "upgradesTo": "Musketman",
+                "obsoleteTech": "Metallurgy",
+                "uniques": ["[+50]% Strength <vs [Mounted] units>"],
+                "attackSound": "metalhit"
         }
-                ]
+]
