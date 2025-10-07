@@ -1,5 +1,4 @@
 [
-
         // Info according to Civilization Wiki and https://www.civfanatics.com/civ5/info/units/gods-and-kings/
 
         /* Ancient Era */
@@ -861,4 +860,6 @@
                 "strength": 26,
                 "cost": 160,
                 "requiredTech": "Gunpowder",
-                "upgradesTo": "Rifleman",
+                "upgradesTo": "Rifleman"
+        }
+]
