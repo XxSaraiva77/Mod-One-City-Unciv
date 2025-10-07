@@ -316,7 +316,7 @@
         },
         {
                 "name": "Battering Ram",
-                "unitType": "Sword", // You might expect this to be a siege unit, but apparently it is not
+                "unitType": "Sword", {"// You might expect this to be a siege unit, but apparently it is not"}
                 "replaces": "Spearman",
                 "uniqueTo": "The Huns",
                 "movement": 2,
