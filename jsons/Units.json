@@ -211,7 +211,7 @@
                 "upgradesTo": "Trireme",
                 "obsoleteTech": "Astronomy",
                 "attackSound": "nonmetalhit"
-                //Barbarian unique naval unit, weaker and slower than Trireme.
+               { "//Barbarian unique naval unit, weaker and slower than Trireme."}
         },
         {
                 "name": "Chariot Archer",
@@ -360,7 +360,7 @@
                 "attackSound": "metalhit"
         },
 
-        /* Classical Era */
+        {"/* Classical Era */"}
         {
                 "name": "Horseman",
                 "unitType": "Mounted",
@@ -514,7 +514,7 @@
                 "attackSound": "metalhit"
         },
 
-        // Medieval Era
+      {"  // Medieval Era"}
         {
                 "name": "Pikeman",
                 "unitType": "Sword",
