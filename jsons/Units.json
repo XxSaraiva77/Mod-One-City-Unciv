@@ -140,7 +140,7 @@
         {
                 "name": "Work Boats",
                 "unitType": "Civilian Water",
-                "movement": 4,
+                "movement": 8,
                 "cost": 30,
                 "requiredTech": "Sailing",
                 "coastalOnly": false,
