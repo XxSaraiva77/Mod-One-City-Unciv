@@ -1,3 +1,15 @@
 {
     "isBaseRuleset": true,
+    
+    "constants": {
+        // Distância que a cidade pode bombardear (2 é o padrão)
+        "baseCityBombardRange": 12,
+        
+        // Número de tiles (hexágonos) de distância que a cidade pode trabalhar
+        "cityWorkRange": 20,
+        
+        // Distância máxima que a fronteira de uma cidade pode se expandir
+        "cityExpandRange": 15
+    }
 }
+
