@@ -139,7 +139,7 @@
         },
         {
                 "name": "Work Boats",
-                "unitType": "Civilian", // ALTERADO PARA CIVILIAN!
+                "unitType": "Civilian",
                 "movement": 8,
                 "cost": 30,
                 "requiredTech": "Sailing",
