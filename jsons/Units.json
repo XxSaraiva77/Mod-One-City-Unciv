@@ -139,12 +139,12 @@
         },
         {
                 "name": "Work Boats",
-                "unitType": "Civilian Water",
+                "unitType": "Civilian", // ALTERADO PARA CIVILIAN!
                 "movement": 8,
                 "cost": 30,
                 "requiredTech": "Sailing",
                 "uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
-            "Uncapturable", "Automation is a primary action", "Can enter [Land] tiles", "Can be built in any city"]
+            "Uncapturable", "Automation is a primary action", "Can enter [Land] tiles", "Can be built in any city", "Can enter [Water] tiles"]
         },
         {
                 "name": "Trireme",
