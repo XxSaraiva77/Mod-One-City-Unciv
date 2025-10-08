@@ -9,7 +9,10 @@
         "cityWorkRange": 20,
         
       
-        "cityExpandRange": 15
+        "cityExpandRange": 15,
+
+        "maxXPfromBarbarians": 60
+
     }
 } 
 
