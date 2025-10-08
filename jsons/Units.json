@@ -140,7 +140,7 @@
                 {
                 "name": "Work Boats",
                 "unitType": "Civilian", 
-                "movement": 8,
+                "movement": 1,
                 "cost": 30,
                 "requiredTech":"Optics",
                 "uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
