@@ -16,7 +16,7 @@
                 "movement": 2,
                 "cost": 999999,
                 "uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-                        "Requires at least [2] population", "Unbuildable"], <-- MODIFICADO: Não pode ser construído
+                        "Requires at least [2] population", "Unbuildable"],
                 "hurryCostModifier": 20
         },
         {
@@ -143,7 +143,6 @@
                 "movement": 8,
                 "cost": 30,
                 "requiredTech": "Sailing",
-                "coastalOnly": false,
                 "uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
             "Uncapturable", "Automation is a primary action", "Can enter [Land] tiles"]
         },
@@ -878,7 +877,7 @@
                 "requiredTech": "Dynamite",
                 "upgradesTo": "Rocket Artillery",
                 "uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
-                        "Must set up to ranged attack","[-1] Sight", "Never appears as a Barbarian unit"],
+                        "Must set up to ranged attack","[-1] Sight", "Never appears as as a Barbarian unit"],
                 "promotions": ["Indirect Fire"],
                 "attackSound": "artillery"
         },
@@ -1238,7 +1237,6 @@
                 "cost": 425,
                 "requiredTech": "Nuclear Fusion",
                 "requiredResource": "Uranium",
-                "upgradesTo": "Giant Death Robot",
                 "uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
                 "attackSound": "gdrAttack"
         },
