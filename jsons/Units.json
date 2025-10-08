@@ -142,7 +142,7 @@
                 "unitType": "Civilian", 
                 "movement": 8,
                 "cost": 30,
-                "requiredTech":"Sailing","Optics",
+                "requiredTech":"Optics",
                 "uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
             "Uncapturable", "Automation is a primary action", "Can be built in any city", "Can embark"]
         },
