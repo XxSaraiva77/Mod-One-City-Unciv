@@ -137,15 +137,16 @@
                 "upgradesTo": "Crossbowman",
                 "attackSound": "arrow"
         },
-        {
+                {
                 "name": "Work Boats",
-                "unitType": "Civilian",
+                "unitType": "Civilian", 
                 "movement": 8,
                 "cost": 30,
                 "requiredTech": "Sailing",
                 "uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
-            "Uncapturable", "Automation is a primary action", "Can enter [Land] tiles", "Can be built in any city", "Can enter [Water] tiles","Can embark"]
+            "Uncapturable", "Automation is a primary action", "Can be built in any city", "Can embark"]
         },
+
         {
                 "name": "Trireme",
                 "unitType": "Melee Water",
