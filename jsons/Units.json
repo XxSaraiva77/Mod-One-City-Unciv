@@ -452,7 +452,7 @@
                 "requiredResource": "Horses",
                 "upgradesTo": "Cavalry",
                 "obsoleteTech": "Military Science",
-                "uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city <on foreign continents>", "[+2] Sight"],
+                "uniques": ["Can move after attacking","No defensive terrain bonus",]
                 "promotions": ["[Conquistador] ability"],
                 "attackSound": "horse"
                 //Conquistador should have no penalty attacking cities
