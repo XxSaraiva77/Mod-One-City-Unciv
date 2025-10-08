@@ -144,7 +144,7 @@
                 "cost": 30,
                 "requiredTech": "Sailing",
                 "uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
-            "Uncapturable", "Automation is a primary action", "Can enter [Land] tiles", "Can be built in any city", "Can enter [Water] tiles"]
+            "Uncapturable", "Automation is a primary action", "Can enter [Land] tiles", "Can be built in any city", "Can enter [Water] tiles","Can embark"]
         },
         {
                 "name": "Trireme",
