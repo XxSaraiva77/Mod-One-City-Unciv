@@ -3,7 +3,7 @@
     
     "constants": {
         
-        "baseCityBombardRange": 20,
+        "baseCityBombardRange": 3,
         
        
         "cityWorkRange": 20,
